@@ -1,2 +1,2 @@
-from arithmetics.temperature import temperature
-from arithemtics.calculate import calculate
+from arithmetics.temperature import Temperature
+from arithmetics.calculate import Calculate

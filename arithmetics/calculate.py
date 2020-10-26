@@ -1,6 +1,6 @@
 # Subtract numbers module
 
-class calculate:
+class Calculate:
 
 	def sub(a, b):
 		"""Substract two numbers"""
